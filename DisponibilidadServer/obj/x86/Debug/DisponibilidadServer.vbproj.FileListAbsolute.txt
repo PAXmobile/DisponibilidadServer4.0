@@ -8,3 +8,6 @@ C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\GenerateResour
 C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.exe
 C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.xml
 C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.pdb
+C:\Users\Leila\Documents\GitHub\DisponibilidadServer4.0\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.exe
+C:\Users\Leila\Documents\GitHub\DisponibilidadServer4.0\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.xml
+C:\Users\Leila\Documents\GitHub\DisponibilidadServer4.0\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.pdb

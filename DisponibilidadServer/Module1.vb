@@ -18,10 +18,6 @@ Module Module1
                 "SELECT * FROM Win32_LogicalDisk WHERE Caption = 'C:'")
 
             For Each queryObj As ManagementObject In searcher.Get()
-
-                Console.WriteLine("-----------------------------------")
-                Console.WriteLine("Win32_LogicalDisk instance")
-                Console.WriteLine("-----------------------------------")
                 Console.WriteLine("FreeSpace: {0}", queryObj("FreeSpace"))
                 FreeSpace = queryObj("FreeSpace")
             Next
@@ -37,10 +33,6 @@ Module Module1
                 "SELECT * FROM Win32_OperatingSystem")
 
             For Each queryObj As ManagementObject In searcher.Get()
-
-                Console.WriteLine("-----------------------------------")
-                Console.WriteLine("Win32_OperatingSystem instance")
-                Console.WriteLine("-----------------------------------")
                 Console.WriteLine("FreePhysicalMemory: {0}", queryObj("FreePhysicalMemory"))
                 FreePhysicalMemory = queryObj("FreePhysicalMemory")
             Next
@@ -55,10 +47,6 @@ Module Module1
                 "SELECT * FROM Win32_OperatingSystem")
 
             For Each queryObj As ManagementObject In searcher.Get()
-
-                Console.WriteLine("-----------------------------------")
-                Console.WriteLine("Win32_OperatingSystem instance")
-                Console.WriteLine("-----------------------------------")
                 Console.WriteLine("FreeVirtualMemory: {0}", queryObj("FreeVirtualMemory"))
                 FreeVirtualMemory = queryObj("FreeVirtualMemory")
             Next
