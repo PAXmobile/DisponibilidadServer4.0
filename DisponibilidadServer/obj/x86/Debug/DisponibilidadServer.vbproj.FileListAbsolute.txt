@@ -1,0 +1,10 @@
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\bin\Debug\DisponibilidadServer.exe
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\bin\Debug\DisponibilidadServer.pdb
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\bin\Debug\DisponibilidadServer.xml
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.Resources.resources
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.exe
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.xml
+C:\vb.NET\DisponibilidadServer\DisponibilidadServer\obj\x86\Debug\DisponibilidadServer.pdb
